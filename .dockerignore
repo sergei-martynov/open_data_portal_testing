@@ -1,0 +1,11 @@
+venv
+__pycache__
+.vscode
+.pytest_cache
+allure-results
+allure-report
+screenshots
+downloads
+docker-allure-results
+docker-downloads
+docker-screenshots
